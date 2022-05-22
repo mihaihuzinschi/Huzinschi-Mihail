@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Huzinschi Mihail</title>
+</head>
+<style>
+h1 {text-align: center;}
+table, th, td {
+  border:1px solid black;
+}
+</style>
+ 
+<body style="background-color:powderblue;">
+<h1 style="background-color(teeth)odgerBlue;">Site-uri folositoare pentru elevii Liceului Teoretic "Dante Alighieri"
+</h1>
+ 
+<h2 style=text-align:center>
+ <a href="https://www.google.com/">1.Google<br></a>
+ <a href="https://www.youtube.com/">2.Youtube<br></a>
+ <a href="https://mail.google.com">3.Gmail<br></a>
+ <a href="https://classroom.google.com">4.Classroom<br></a>
+</h2>
+<hr color="black" size="2" >
+<h3>Disciplinele:</h3>
+ <ol>
+  <p>1.Discipline profil real:</p>
+ 
+ <ul style="list-style-type:square">
+  <li>matematica</li>
+  <li>informatica</li>
+  <li>fizica</li>
+ </ul>
+ </ol>
+ 
+ <ol>
+  <p>2.Discipline profil umanist:</p>
+ <ul style="list-style-type:circle">
+  <li>istoria</li>
+  <li>limba romana</li>
+  <li>limba italiană</li>
+</ul>
+</ol>
+<hr color="black" size="2">
+<hr width="200px;" color="red" size="10">
+<hr width="150px;" color="red" size="10">
+<hr width="100px;" color="red" size="10">
+<hr width="50px;" color="red" size="10">
+<hr width="100px;" color="red" size="10">
+<hr width="150px;" color="red" size="10">
+<hr width="200px;" color="red" size="10">
+<hr color="black" size="2" >
+<h2 style="background-color:green; text-align: center">Cursuri în incinta liceului</h2>
+ 
+<table style="width:100%">
+  <tr>
+    <th>Cursuri</th>
+    <th>Ora</th>
+    <th>Ziua</th>
+  </tr>
+  <tr>
+    <td>Economie</td>
+    <td>16:00</td>
+    <td>Luni</td>
+  </tr>
+  <tr>
+    <td>Drept administrativ</td>
+    <td>15:00</td>
+    <td>Marți</td>
+  </tr>
+   <tr>
+    <td>Calculatoare și Informatică</td>
+    <td>14:00</td>
+    <td>Miercuri</td>
+  </tr>
+   <tr>
+    <td>Psihologie</td>
+    <td>14:00</td>
+    <td>Vineri</td>
+   </tr>
+</table>
+<hr color="black" size="2">
+<img src=https://ichef.bbci.co.uk/news/976/cpsprodpb/6693/production/_111995262_gettyimages-1139930327.jpg width="400" height="300">
+<img src=https://d7rh5s3nxmpy4.cloudfront.net/CMP1431/1/LHIL153BI25431_USA_000041_Roosevelt_High_School_IMD.JPG width="400" height="300">
+<img src=https://cdn-japantimes.com/wp-content/uploads/2021/08/np_file_107656.jpeg width="400" height="300">
+</body>
+ 
+</html>
